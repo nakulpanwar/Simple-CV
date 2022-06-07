@@ -1,10 +1,18 @@
-# ResumeApp
+# Simple CV
+
+A simple angular application used to create a simple CV of any kind using just plain HTML and CSS.
+
+If you like the default CV, just replace the details with your own and generate PDF document using Google Chrome browser.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## How to generate CV?
+
+Use Google Chrome browser to generate the CV using `print` command as `Command + p` or `Ctrl + p`
 
 ## Code scaffolding
 
